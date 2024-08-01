@@ -11,17 +11,13 @@
 
 
 <h3>🔎 I'm currently..</h3>
-<p>
-- 🎯 Searching for a new job
-  
-- 💥 Finishing Jonas Schmedtmann's ultimate React course
-
-- ⚡ Learning Next Js
-
-- 🐶 Creating my pet projects
-
--  🚀Continuously getting better
-</p>
+<ul>
+  <li>🎯 Searching for a new job</li>
+  <li>💥 Finishing Jonas Schmedtmann's ultimate React course </li>
+  <li>⚡ Learning Next Js</li>
+  <li>🐶 Creating my pet projects</li>
+  <li>🚀Continuously getting better</li>
+</ul
 
 
 
