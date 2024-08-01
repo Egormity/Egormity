@@ -78,3 +78,7 @@ ___
     <img src="https://img.shields.io/static/v1?message=Contact%20me&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=Contact%20me%20here&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+___
+
+### Check out my projects pinned bellow 😉
