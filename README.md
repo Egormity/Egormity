@@ -3,20 +3,27 @@
 
 
 <p>
-  Hi
+  Why did I chose to be a Front-end devoloper? I love thinking but also love awesome designes and creating real things. 
 </p>
+
 
 
 <h3>🔎 I'm currently..</h3>
 <p>
-- Searching for a new job 🚩
+- Searching for a new job 🎯
   
 - Finishing Jonas Schmedtmann's ultimate React course 💥
 
 - Learning Next Js ⚡
   
 - Creating my pet projects 🐶
+
+- Continuously getting better 🚀
 </p>
+
+
+
+<br />
 
 
 
