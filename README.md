@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-<br />
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
