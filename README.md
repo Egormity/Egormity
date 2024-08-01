@@ -12,9 +12,9 @@
 - Searching for a new job 🚩
   
 - Finishing Jonas Schmedtmann's ultimate React course 💥
-- 
+
 - Learning Next Js ⚡
-- 
+  
 - Creating my pet projects 🐶
 </p>
 
