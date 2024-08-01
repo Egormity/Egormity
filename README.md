@@ -68,7 +68,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Egormity&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=Egormity&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=Egormity&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)" />
+    </a>
+</p>
 
 <hr />
 
