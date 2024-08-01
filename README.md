@@ -48,7 +48,7 @@
 </div>
 
 ###
-<br />
+<hr />
 
 <h3 align="left">👉 My contacts:</h3>
 <div align="left">
