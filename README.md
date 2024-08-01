@@ -1,30 +1,25 @@
-<h2 align="left">Hi 👋! My name is Egor and I'm a truly passionate Front-end developer from Krasnoyarsk, Russia 🔥</h2>
+## Hi 👋! My name is Egor and I'm a truly passionate Front-end developer from Krasnoyarsk, Russia 🔥
 
-###
 
-  <h3>🧐 Why did I choose to be a Front-end developer?</h3>
+
+> ### *🧐 Why did I choose to be a Front-end developer?*
   <p>
     I love thinking, but I also love awesome designs and creating real things. Frontend combines these two aspects, so I can create various complex, gorgeous web-applications and share them with other people!
   </p>
 
-###
 
-<h3>🔎 I'm currently..</h3>
-<ul>
-  <li>🎯 Searching for a new job</li>
-  <li>💥 Finishing Jonas Schmedtmann's ultimate React course </li>
-  <li>⚡ Learning Next Js</li>
-  <li>🐶 Creating my pet projects</li>
-  <li>🚀Continuously getting better</li>
-</ul
 
-###
+### *🔎 I'm currently..*
+* 🎯 Searching for a new job
+* 💥 Finishing Jonas Schmedtmann's ultimate React course
+* ⚡ Learning Next Js
+* 🐶 Creating my pet projects
+* 🚀Continuously getting better
 
-<hr />
 
-###
+___
 
-<h3 align="left">🛠 Technology stack:</h3>
+### *🛠 Technology stack:*
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -72,13 +67,9 @@
   [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 </div>
 
-###
+___
 
-<hr />
-
-###
-
-<h3 align="left">👉 My contacts:</h3>
+### *👉 My contacts:*
 <div align="left">
   <a href="mailto:kotlaregor9@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
