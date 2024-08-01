@@ -1,11 +1,46 @@
-<h3 align="left">Hi 👋! My name is Egor and I'm a truly passionate Front-end developer from Krasnoyarsk, Russia 🔥</h3>
+<h2 align="left">Hi 👋! My name is Egor and I'm a truly passionate Front-end developer from Krasnoyarsk, Russia 🔥</h2>
+
+
+
+<h1 align="center">Hi 👋, I'm egormity asdasd</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egormity&label=Profile%20views&color=0e75b6&style=flat" alt="egormity" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egormity" alt="egormity" /></a> </p>
+
+- 🔭 I’m currently working on [1](3)
+
+- 🌱 I’m currently learning **a**
+
+- 👯 I’m looking to collaborate on [s](2)
+
+- 🤝 I’m looking for help with [s](5)
+
+- 👨‍💻 All of my projects are available at [h](h)
+
+- 📝 I regularly write articles on [s](s)
+
+- 💬 Ask me about **as**
+
+- 📫 How to reach me **as**
+
+- 📄 Know about my experiences [s](s)
+
+- ⚡ Fun fact **s**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Egormity&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Egormity&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <h3 align="left">🛠 Technology stack:</h3>
 <div align="left">
@@ -22,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -43,8 +78,11 @@
   <img width="12" />
 </div>
 
-###
+
+
 <hr />
+
+
 
 <h3 align="left">👉 My contacts:</h3>
 <div align="left">
@@ -55,7 +93,3 @@
     <img src="https://img.shields.io/static/v1?message=Contact%20me&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=Contact%20me%20here&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-
