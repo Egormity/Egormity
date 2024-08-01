@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars" />
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=halloween)](https://github.com/ignacio-cuadra/github-readme-codewars" />
 </div>
 
 <hr />
