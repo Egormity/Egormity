@@ -4,7 +4,7 @@
 
 > ### *🧐 Why did I choose to be a Front-end developer?*
  <p>
-    I love thinking, but I also love awesome designs and creating real things. Frontend combines these two aspects, so I can create various complex, gorgeous web-applications and share them with other people!
+    I love thinking, but I also love awesome designs and creating real world things. Frontend combines these two aspects, so I can create various complex, gorgeous web-applications and share them with other people!
   </p>
 
 
