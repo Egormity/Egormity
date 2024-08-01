@@ -63,12 +63,7 @@
 
 <br />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Egormity&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Egormity&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 <hr />
 
