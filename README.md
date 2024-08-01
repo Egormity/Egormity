@@ -3,27 +3,16 @@
 
 
 <p>
+  Hi
+</p>
 
-- 🔭 I’m currently working on [1](3)
 
-- 🌱 I’m currently learning **a**
-
-- 👯 I’m looking to collaborate on [s](2)
-
-- 🤝 I’m looking for help with [s](5)
-
-- 👨‍💻 All of my projects are available at [h](h)
-
-- 📝 I regularly write articles on [s](s)
-
-- 💬 Ask me about **as**
-
-- 📫 How to reach me **as**
-
-- 📄 Know about my experiences [s](s)
-
-- ⚡ Fun fact **s**
-
+<h3>🔎 I'm currently..</h3>
+<p>
+- Searching for a new job 🚩
+- Finishing Jonas Schmedtmann's ultimate React course 💥
+- Learning Next Js ⚡
+- Creating my pet projects 🐶
 </p>
 
 
@@ -50,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-
+<img height="8" />
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
