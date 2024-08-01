@@ -1,14 +1,13 @@
 <h2 align="left">Hi 👋! My name is Egor and I'm a truly passionate Front-end developer from Krasnoyarsk, Russia 🔥</h2>
 
-
-
+###
 
   <h3>🧐 Why did I choose to be a Front-end developer?</h3>
   <p>
     I love thinking, but I also love awesome designs and creating real things. Frontend combines these two aspects, so I can create various complex, gorgeous web-applications and share them with other people!
   </p>
 
-
+###
 
 <h3>🔎 I'm currently..</h3>
 <ul>
@@ -40,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
@@ -61,9 +60,11 @@
   <img width="12" />
 </div>
 
-
+###
 
 <br />
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Egormity&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -73,11 +74,13 @@
 <div align="center">
   
   [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
-  
 </div>
+
+###
+
 <hr />
 
-
+###
 
 <h3 align="left">👉 My contacts:</h3>
 <div align="left">
