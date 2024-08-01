@@ -19,12 +19,11 @@
   <li>🚀Continuously getting better</li>
 </ul
 
-
-
+###
 
 <hr />
 
-
+###
 
 <h3 align="left">🛠 Technology stack:</h3>
 <div align="left">
