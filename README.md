@@ -2,9 +2,9 @@
 
 
 
-<p>
+<h4>
   Why did I chose to be a Front-end devoloper? I love thinking but also love awesome designes and creating real things. 
-</p>
+</h4>
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-<br />
+<hr />
 
 
 
