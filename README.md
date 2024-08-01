@@ -3,7 +3,7 @@
 
 
 <h4>
-  Why did I chose to be a Front-end devoloper? I love thinking but also love awesome designes and creating real things. 
+  Why did I choose to be a Front-end developer? I love thinking, but I also love awesome designs and creating real things. Frontend combines these two aspects, so I can create various complex, gorgeous web-applications and share them with other people!
 </h4>
 
 
