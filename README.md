@@ -1,20 +1,18 @@
-## Hi 👋! My name is Egor and I'm a truly passionate Front-end developer from Krasnoyarsk, Russia 🔥
+## Hi 👋 My name is Egor!
 
 
 
 > ### *🧐 Why did I choose to be a Front-end developer?*
  <p>
     I love thinking, but I also love awesome designs and creating real world things. Frontend combines these two aspects, so I can create various complex, gorgeous web-applications and share them with other people!
-  </p>
+ </p>
 
 
 
 ### *🔎 I'm currently..*
-* 🎯 Searching for a new job
-* 💥 Finishing Jonas Schmedtmann's ultimate React course
-* ⚡ Learning Next Js
-* 🐶 Creating my pet projects
-* 🚀Continuously getting better
+* 🚀 Continuously ...............
+* 💥 ............ getting .......
+* 🔥 .................... better.
 
 
 ___
@@ -63,7 +61,6 @@ ___
 </div>
 
 <div align="center">
-  
   [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 </div>
 
@@ -75,7 +72,7 @@ ___
     <img src="https://img.shields.io/static/v1?message=My%20email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Egormity" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact%20me&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=Contact%20me%20here&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Text%20me&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=Contact%20me%20here&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 
