@@ -10,9 +10,9 @@
 
 
 ### *🔎 I'm currently..*
-* 🚀 Continuously
-* 💥 getting
-* 🔥 better.
+* Continuously 🚀
+* getting 💥
+* better 🔥
 
 
 ___
