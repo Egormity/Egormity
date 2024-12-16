@@ -43,6 +43,7 @@ ___
 
 <div align="center">
   [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+   <img alt="Github Readme Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars"/> 
 </div>
 
 ___
@@ -59,4 +60,4 @@ ___
 
 ___
 
-### Check out my projects pinned bellow 😉
+### **Do not** check out my old projects pinned bellow 😉
