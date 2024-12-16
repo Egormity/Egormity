@@ -59,4 +59,4 @@ ___
 
 ___
 
-### ***Do not*** check out my old projects pinned bellow 😉
+### ***Do not*** check out my ***old*** projects pinned bellow 😉
