@@ -2,9 +2,9 @@
 
 
 
-> ### *🧐 To-do?*
+> ### *🧐 Hi?*
  <p>
-    To-do!
+    H e l l o ,  m y  f r i e n d  ! ?
  </p>
 
 
@@ -59,4 +59,4 @@ ___
 
 ___
 
-### ***Do not*** check out my ***old*** projects pinned bellow 😉
+### Check out my ***old*** projects pinned bellow 😉
