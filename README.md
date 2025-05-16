@@ -14,26 +14,6 @@
 * getting 💥
 * better 🔥
 
-
-/* ___
-
-// ### *🛠 Technology stack:*
-// <div align="left">
-//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-//  <img width="12" />
-//  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-//  <img width="12" />
-//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-//  <img width="12" />
-//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-//  <img width="12" />
-//  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-//  <img width="12" />
-//  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-//  <img width="12" />
-//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-// </div> */
-
 ###
 
 <div align="center">
@@ -42,7 +22,8 @@
 </div>
 
 <div align="center">
-   <img alt="Github Readme Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark"/> 
+   <img alt="Github Readme Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark"/>
+   <img alt="Gitlab Readme LeetCode" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=IBM%20Plex%20Sans%20KR"/>
 </div>
 
 ___
@@ -56,7 +37,3 @@ ___
     <img src="https://img.shields.io/static/v1?message=Text%20me&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=Contact%20me%20here&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-/* ___
-
-// ### Check out my ***old*** projects pinned bellow 😉 */
