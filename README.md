@@ -15,7 +15,7 @@
 * better 🔥
 
 
-//___
+/* ___
 
 // ### *🛠 Technology stack:*
 // <div align="left">
@@ -32,7 +32,7 @@
 //  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 //  <img width="12" />
 //  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-// </div>
+// </div> */
 
 ###
 
@@ -57,6 +57,6 @@ ___
   </a>
 </div>
 
-// ___
+/* ___
 
-// ### Check out my ***old*** projects pinned bellow 😉
+// ### Check out my ***old*** projects pinned bellow 😉 */
