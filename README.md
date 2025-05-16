@@ -15,24 +15,24 @@
 * better 🔥
 
 
-___
+//___
 
-### *🛠 Technology stack:*
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
+// ### *🛠 Technology stack:*
+// <div align="left">
+//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+//  <img width="12" />
+//  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+//  <img width="12" />
+//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+//  <img width="12" />
+//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+//  <img width="12" />
+//  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+//  <img width="12" />
+//  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+//  <img width="12" />
+//  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+// </div>
 
 ###
 
@@ -57,6 +57,6 @@ ___
   </a>
 </div>
 
-___
+// ___
 
-### Check out my ***old*** projects pinned bellow 😉
+// ### Check out my ***old*** projects pinned bellow 😉
