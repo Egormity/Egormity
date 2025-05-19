@@ -23,7 +23,7 @@
 
 <div align="center">
    <img alt="Github Readme Codewars" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Egormity&theme=dark"/>
-   <img alt="Gitlab Readme LeetCode" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=IBM%20Plex%20Sans%20KR"/>
+   <img alt="Gitlab Readme LeetCode" src="https://leetcard.jacoblin.cool/egormity?theme=dark&font=IBM%20Plex%20Sans%20KR"/>
 </div>
 
 ___
