@@ -1,15 +1,6 @@
-## Hi 👋 My name is Egor!
+## Hi👋 My name is Egor!
 
-
-
-> ### *🧐 Hi?*
- <p>
-    H e l l o ,  m y  f r i e n d  ! ?
- </p>
-
-
-
-### *🔎 I'm currently..*
+### *🔎 And I'm currently..*
 * Continuously 🚀
 * getting 💥
 * better 🔥
