@@ -1,9 +1,9 @@
-## Hi👋 My name is Egor!
+## Hithere, My name's Egor :)
 
-### *🔎 And I'm currently..*
-* Continuously 🚀
-* getting 💥
-* better 🔥
+### *🔎 I am a fullstack web developer and at the moment I'm..*
+* Continuously
+* Getting
+* Better 🚀
 
 ###
 
