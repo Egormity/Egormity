@@ -1,11 +1,11 @@
-## Hithere, My name's Egor :)
+## Hi there, My name's Egor :)
 
 ### *🔎 I am a fullstack web developer and at the moment I'm..*
 * Continuously
-* Getting
-* Better 🚀
+* Getting 🚀
+* Better
 
-###
+___
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Egormity&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -28,3 +28,5 @@ ___
     <img src="https://img.shields.io/static/v1?message=Text%20me&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=Contact%20me%20here&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+### You can check out my projects and code examples pinned bellow
